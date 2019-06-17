@@ -90,4 +90,4 @@ superwingy，firstwingy，shadowingy，wingy +， banananet，kite-ss proxy，goodshad
  加密	    : aes-256-cfb
 
  SS    链接 :ss://YWVzLTI1Ni1jZmI6dHV0dXR1dHVAeHlrLmF6ZXJvLW5nLmNuOjQ0Mw==
- SSR   链接 :ssr://eHlrLmF6ZXJvLW5nLmNuOjQ0MzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46ZEhWMGRYUjFkSFUvP29iZnNwYXJhbT0
+ SSR   链接 :ssr://c29ja3Mua2lyaW5uZy5jb206NDQzOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpkSFYwZFhSMWRIVS8_b2Jmc3BhcmFtPQ
