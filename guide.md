@@ -2,7 +2,7 @@ https://www.vpscn.net/40.html
 # 配置文件
 config.json
 {
-    "server": "xyk.azero-ng.cn",
+    "server": "xky.zydzl.com",
     "server_ipv6": "::",
     "server_port": 443,
     "local_address": "127.0.0.1",
@@ -76,7 +76,7 @@ superwingy，firstwingy，shadowingy，wingy +， banananet，kite-ss proxy，goodshad
 
  ShadowsocksR账号 配置信息：
 
- I  P	    : xyk.azero-ng.cn
+ I  P	    : xky.zydzl.com
  端口	    : 443
  密码	    : tutututu
  加密	    : aes-256-cfb
@@ -84,7 +84,7 @@ superwingy，firstwingy，shadowingy，wingy +， banananet，kite-ss proxy，goodshad
  混淆	    : plain
 
  Shadowsocks账号 配置信息：
- I  P	    : xyk.azero-ng.cn
+ I  P	    : xky.zydzl.com
  端口	    : 443
  密码	    : tutututu
  加密	    : aes-256-cfb
